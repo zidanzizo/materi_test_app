@@ -1,5 +1,5 @@
 # materi_test_app
-![alt text](https://imgur.com/a/A2XWVwq)
+![alt text](https://i.imgur.com/zCV5Wel.jpg)
 A new Flutter project.
 
 ## Getting Started
